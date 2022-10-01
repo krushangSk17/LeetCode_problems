@@ -9,7 +9,7 @@ nums[i] > 2 * nums[j].
 
 PythonCode:
 
-"""
+```
 class Solution:
     def reversePairs(self, nums: List[int]) -> int:
         
@@ -68,4 +68,4 @@ class Solution:
         print(helper(nums))
         return self.inv
         
-"""
+```
